@@ -11,6 +11,7 @@ This project focuses on cleaning and transforming the `NashvilleHousing` dataset
 ## Dataset
 
 The dataset consists of various attributes related to Nashville housing, including sale dates, property addresses, and owner addresses. This analysis aims to refine the dataset for better analytical capabilities.
+link:github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
 ## SQL Queries
 
